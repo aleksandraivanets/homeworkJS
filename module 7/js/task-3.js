@@ -27,3 +27,5 @@ images.forEach((image) => {
   li.appendChild(img);
   ul.appendChild(li);
 });
+
+///

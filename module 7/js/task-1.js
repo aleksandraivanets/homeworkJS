@@ -8,3 +8,5 @@ items.forEach(function (item) {
     ulListChildrens = ulList.children;
   console.log(`Кількість елементів: ${ulListChildrens.length}`);
 });
+
+///

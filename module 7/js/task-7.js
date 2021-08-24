@@ -7,3 +7,5 @@ let text = document.getElementById("text");
 controlSize.oninput = function () {
   text.style.fontSize = controlSize.value + "px";
 };
+
+///
